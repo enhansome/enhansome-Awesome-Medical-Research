@@ -1,0 +1,541 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-15T12:57:08Z",
+            "owner": "codertimo",
+            "repo": "BERT-pytorch",
+            "stars": 6527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KNOWLEDGE-POWERED CONVERSATIONAL AGENTS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-03T19:31:10Z",
+            "owner": "DopplerHQ",
+            "repo": "awesome-bots",
+            "stars": 4172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Diffusion for Neural Dialogue Generation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-07-12T12:18:28Z",
+            "owner": "jiweil",
+            "repo": "Neural-Dialogue-Generation",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:56:10Z",
+            "owner": "HLTCHKUST",
+            "repo": "Mem2Seq",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-04T14:17:30Z",
+            "owner": "MiuLab",
+            "repo": "KB-InfoBot",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T17:30:31Z",
+            "owner": "stanfordnlp",
+            "repo": "cocoa",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task-oriented Dialogue System for Automatic Diagnosis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:55:34Z",
+            "owner": "LiuQL2",
+            "repo": "MedicalChatbot",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Dialog Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Improving Question Answering by Commonsense-Based Pre-Training",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T00:44:25Z",
+            "owner": "sebastianruder",
+            "repo": "NLP-progress",
+            "stars": 22962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Visual Knowledge Memory Networks for Visual Question Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-07T10:19:09Z",
+            "owner": "chingyaoc",
+            "repo": "awesome-vqa",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Denoising Distantly Supervised Open-Domain Question Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-07T09:50:10Z",
+            "owner": "thunlp",
+            "repo": "OpenQA",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-09T03:09:44Z",
+            "owner": "victorywys",
+            "repo": "Learning2Ask_TypedDecoder",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Question Answering Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Lesion Graphs in the Wild",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-15T21:52:52Z",
+            "owner": "rsummers11",
+            "repo": "CADLab",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-15T21:52:52Z",
+            "owner": "rsummers11",
+            "repo": "CADLab",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-15T21:52:52Z",
+            "owner": "rsummers11",
+            "repo": "CADLab",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "Lesion Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Searching for Efficient Multi-Scale Architectures for Dense Image Prediction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:02:45Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Higher-order Graph Convolutional Networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-14T08:09:28Z",
+            "owner": "tkipf",
+            "repo": "gcn",
+            "stars": 7402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CornerNet: Detecting Objects as Paired Keypoints",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-18T18:59:28Z",
+            "owner": "princeton-vl",
+            "repo": "CornerNet",
+            "stars": 2369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T06:40:17Z",
+            "owner": "ethanhe42",
+            "repo": "softer-NMS",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Deep Representations for Visual Recognition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-05-04T10:32:18Z",
+            "owner": "reedscot",
+            "repo": "cvpr2016",
+            "stars": 337
+          }
+        }
+      ],
+      "title": "Object Dection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GO FOR A WALK AND ARRIVE AT THE ANSWER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-19T16:01:41Z",
+            "owner": "shehzaadzd",
+            "repo": "MINERVA",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-25T13:55:00Z",
+            "owner": "shagunsodhani",
+            "repo": "Graph-Reading-Group",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhanced LSTM for Natural Language Inference",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-18T07:06:42Z",
+            "owner": "lukecq1231",
+            "repo": "nli",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Natural Language Inference Models Enhanced with External Knowledge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-05T12:15:32Z",
+            "owner": "feifengwhu",
+            "repo": "NLP_External_knowledge",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Graph Reasoning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Universal Transformers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-02T18:55:09Z",
+            "owner": "tensorflow",
+            "repo": "tensor2tensor",
+            "stars": 17460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2023-08-08T16:53:11Z",
+            "owner": "lil-lab",
+            "repo": "newsroom",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Natural Language Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepMind开源强化学习库“多巴胺”",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T18:11:40Z",
+            "owner": "google",
+            "repo": "dopamine",
+            "stars": 10893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind开源强化学习库“松露”",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T18:07:05Z",
+            "owner": "google-deepmind",
+            "repo": "trfl",
+            "stars": 3132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thunlp NRE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-30T04:48:20Z",
+            "owner": "thunlp",
+            "repo": "NRE",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open QA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-07T09:50:10Z",
+            "owner": "thunlp",
+            "repo": "OpenQA",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thunlp JointNRE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-03T06:52:50Z",
+            "owner": "thunlp",
+            "repo": "JointNRE",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Online Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome GAN for Medical Imaging",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-29T21:59:19Z",
+            "owner": "xinario",
+            "repo": "awesome-gan-for-medical-imaging",
+            "stars": 2362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Deepbio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-07T22:43:41Z",
+            "owner": "gokceneraslan",
+            "repo": "awesome-deepbio",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Papers on Medical Image Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2022-04-01T08:51:47Z",
+            "owner": "albarqouni",
+            "repo": "Deep-Learning-for-Medical-Applications",
+            "stars": 1610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Medical-Imaging",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-26T06:34:05Z",
+            "owner": "seokkim",
+            "repo": "Awesome-Medical-Imaging",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:57:53.151Z",
+    "original_repository": "Engineering-Course/Awesome-Medical-Research",
+    "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Research",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Medical-Research with stars"
+  }
+}
