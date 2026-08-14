@@ -24,7 +24,7 @@ Awesome list for deep learning on medical research
 
 ## Dialog Systems
 
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15
 
 * KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [`ICLR 2019`](https://openreview.net/pdf?id=r1l73iRqKm) [`related code`](https://github.com/GetStoryline/awesome-bots) ⚠️ Archived [`related code`](https://github.com/ricsinaruto/Seq2seqChatbots) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,962 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,961 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07
 
@@ -73,9 +73,9 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-08-13 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,654 | 🐛 1,274 | 🌐 Python | 📅 2026-08-13 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,402 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,400 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,402 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,399 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
 * CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,369 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
@@ -169,9 +169,9 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,893 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,894 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
-* [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,132 | 🐛 6 | 🌐 Python | 📅 2022-12-08
+* [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,131 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
 * [thunlp NRE](https://github.com/thunlp/NRE) ⭐ 808 | 🐛 16 | 🌐 C++ | 📅 2020-07-30
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
