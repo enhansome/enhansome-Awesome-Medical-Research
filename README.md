@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,960 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,959 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07
 
@@ -73,7 +73,7 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,652 | 🐛 1,274 | 🌐 Python | 📅 2026-08-15 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,653 | 🐛 1,274 | 🌐 Python | 📅 2026-08-15 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,402 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,399 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,894 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,895 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,131 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
