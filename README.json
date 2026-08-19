@@ -15,7 +15,7 @@
             "last_commit": "2023-09-15T12:57:08Z",
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6528
+            "stars": 6529
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22955
+            "stars": 22954
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2018-10-07T10:19:09Z",
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
-            "stars": 439
+            "stars": 437
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:19.419Z",
+    "last_updated": "2026-08-19T23:35:51.711Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",

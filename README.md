@@ -24,7 +24,7 @@ Awesome list for deep learning on medical research
 
 ## Dialog Systems
 
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,529 | 🐛 68 | 🌐 Python | 📅 2023-09-15
 
 * KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [`ICLR 2019`](https://openreview.net/pdf?id=r1l73iRqKm) [`related code`](https://github.com/GetStoryline/awesome-bots) ⚠️ Archived [`related code`](https://github.com/ricsinaruto/Seq2seqChatbots) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -46,9 +46,9 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,954 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
-* Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07
+* Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07
 
 * Denoising Distantly Supervised Open-Domain Question Answering [`ACL 2018`](http://aclweb.org/anthology/P18-1161) [`code`](https://github.com/thunlp/OpenQA) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2018-11-07
 
