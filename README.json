@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153113207,
             "language": "Python",
             "last_commit": "2023-09-15T12:57:08Z",
             "owner": "codertimo",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83300971,
             "language": null,
             "last_commit": "2024-07-03T19:31:10Z",
             "owner": "DopplerHQ",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80040378,
             "language": "Lua",
             "last_commit": "2017-07-12T12:18:28Z",
             "owner": "jiweil",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130682052,
             "language": "Python",
             "last_commit": "2023-07-06T21:56:10Z",
             "owner": "HLTCHKUST",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88800267,
             "language": "Python",
             "last_commit": "2018-07-04T14:17:30Z",
             "owner": "MiuLab",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65188526,
             "language": "Python",
             "last_commit": "2022-10-04T17:30:31Z",
             "owner": "stanfordnlp",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114236100,
             "language": "Python",
             "last_commit": "2023-03-24T23:55:34Z",
             "owner": "LiuQL2",
@@ -105,7 +112,7 @@
       "title": "Dialog Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138331573,
             "language": "Python",
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956
+            "stars": 22955
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59876005,
             "language": null,
             "last_commit": "2018-10-07T10:19:09Z",
             "owner": "chingyaoc",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132556797,
             "language": "Python",
             "last_commit": "2018-11-07T09:50:10Z",
             "owner": "thunlp",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131484299,
             "language": "Python",
             "last_commit": "2019-03-09T03:09:44Z",
             "owner": "victorywys",
@@ -167,7 +178,7 @@
       "title": "Question Answering Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23888481,
             "language": "C++",
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23888481,
             "language": "C++",
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23888481,
             "language": "C++",
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
@@ -215,7 +229,7 @@
       "title": "Lesion Detection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51117837,
             "language": "Python",
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73470551,
             "language": "Python",
             "last_commit": "2023-04-14T08:09:28Z",
             "owner": "tkipf",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143365050,
             "language": "Python",
             "last_commit": "2020-09-18T18:59:28Z",
             "owner": "princeton-vl",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149854106,
             "language": "Python",
             "last_commit": "2024-05-02T06:40:17Z",
             "owner": "ethanhe42",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60035701,
             "language": "Lua",
             "last_commit": "2017-05-04T10:32:18Z",
             "owner": "reedscot",
@@ -291,7 +310,7 @@
       "title": "Object Dection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112058606,
             "language": "Python",
             "last_commit": "2019-05-19T16:01:41Z",
             "owner": "shehzaadzd",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129108774,
             "language": null,
             "last_commit": "2019-04-25T13:55:00Z",
             "owner": "shagunsodhani",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88917691,
             "language": "Python",
             "last_commit": "2020-02-18T07:06:42Z",
             "owner": "lukecq1231",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137967548,
             "language": "Python",
             "last_commit": "2022-10-05T12:15:32Z",
             "owner": "feifengwhu",
@@ -353,7 +376,7 @@
       "title": "Graph Reasoning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -362,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94460704,
             "language": "Python",
             "last_commit": "2023-06-02T18:55:09Z",
             "owner": "tensorflow",
@@ -376,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131306570,
             "language": "Perl",
             "last_commit": "2023-08-08T16:53:11Z",
             "owner": "lil-lab",
@@ -387,7 +412,7 @@
       "title": "Natural Language Processing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -396,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142422739,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10896
+            "stars": 10897
           }
         },
         {
@@ -410,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144027556,
             "language": "Python",
             "last_commit": "2022-12-08T18:07:05Z",
             "owner": "google-deepmind",
@@ -424,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60605141,
             "language": "C++",
             "last_commit": "2020-07-30T04:48:20Z",
             "owner": "thunlp",
@@ -438,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132556797,
             "language": "Python",
             "last_commit": "2018-11-07T09:50:10Z",
             "owner": "thunlp",
@@ -452,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111351969,
             "language": "Python",
             "last_commit": "2022-11-03T06:52:50Z",
             "owner": "thunlp",
@@ -463,7 +493,7 @@
       "title": "Online Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -472,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101222904,
             "language": null,
             "last_commit": "2022-05-29T21:59:19Z",
             "owner": "xinario",
@@ -486,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50022436,
             "language": null,
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
@@ -500,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84648401,
             "language": "TeX",
             "last_commit": "2022-04-01T08:51:47Z",
             "owner": "albarqouni",
@@ -514,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79212678,
             "language": null,
             "last_commit": "2017-03-26T06:34:05Z",
             "owner": "seokkim",
@@ -523,16 +557,12 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:35:32.426Z",
+    "last_updated": "2026-08-19T12:10:19.419Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
+    "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Research",
     "enhanced_repository_description": null,

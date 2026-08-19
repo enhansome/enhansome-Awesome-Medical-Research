@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,956 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,896 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,897 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,131 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
