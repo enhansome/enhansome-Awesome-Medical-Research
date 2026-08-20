@@ -30,7 +30,7 @@
             "last_commit": "2024-07-03T19:31:10Z",
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4171
+            "stars": 4172
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-17T23:06:28Z",
+            "last_commit": "2026-08-20T21:31:44Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77651
+            "stars": 77647
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2023-06-02T18:55:09Z",
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17462
+            "stars": 17463
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10897
+            "stars": 10896
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988
+            "stars": 1986
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2022-04-01T08:51:47Z",
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1609
+            "stars": 1608
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:35:51.711Z",
+    "last_updated": "2026-08-20T23:39:28.783Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
