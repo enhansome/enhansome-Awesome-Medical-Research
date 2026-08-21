@@ -15,7 +15,7 @@
             "last_commit": "2023-09-15T12:57:08Z",
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6529
+            "stars": 6528
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954
+            "stars": 22952
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-20T21:31:44Z",
+            "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77647
+            "stars": 77648
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2023-06-02T18:55:09Z",
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17463
+            "stars": 17465
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10896
+            "stars": 10897
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:39:28.783Z",
+    "last_updated": "2026-08-21T23:37:30.164Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
