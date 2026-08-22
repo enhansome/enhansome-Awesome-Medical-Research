@@ -75,7 +75,7 @@ Awesome list for deep learning on medical research
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
   [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,401 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,400 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
 * CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,369 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
@@ -217,7 +217,7 @@ Awesome list for deep learning on medical research
 
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,362 | 🐛 2 | 📅 2022-05-29
 
-* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,986 | 🐛 6 | 📅 2021-11-07
+* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,987 | 🐛 6 | 📅 2021-11-07
 
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,608 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

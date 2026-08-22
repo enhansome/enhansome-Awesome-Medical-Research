@@ -258,7 +258,7 @@
             "last_commit": "2023-04-14T08:09:28Z",
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7401
+            "stars": 7400
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1986
+            "stars": 1987
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:37:30.164Z",
+    "last_updated": "2026-08-22T23:34:32.923Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
