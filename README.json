@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:34:32.923Z",
+    "last_updated": "2026-08-23T23:34:43.469Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
