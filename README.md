@@ -64,16 +64,16 @@ Awesome list for deep learning on medical research
 
 ## Lesion Detection
 
-* Deep Lesion Graphs in the Wild [`CVPR 2018`](https://arxiv.org/pdf/1711.10535.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* Deep Lesion Graphs in the Wild [`CVPR 2018`](https://arxiv.org/pdf/1711.10535.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
-* DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [`JMI 2018`](https://arxiv.org/pdf/1710.01766.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [`JMI 2018`](https://arxiv.org/pdf/1710.01766.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
-* 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [`MICCAI 2018`](https://arxiv.org/pdf/1806.09648.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [`MICCAI 2018`](https://arxiv.org/pdf/1806.09648.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,649 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,400 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -217,7 +217,7 @@ Awesome list for deep learning on medical research
 
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,362 | 🐛 2 | 📅 2022-05-29
 
-* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,987 | 🐛 6 | 📅 2021-11-07
+* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,988 | 🐛 6 | 📅 2021-11-07
 
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,608 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

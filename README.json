@@ -30,7 +30,7 @@
             "last_commit": "2024-07-03T19:31:10Z",
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4172
+            "stars": 4173
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 462
           }
         }
       ],
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649
+            "stars": 77648
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2021-11-07T22:43:41Z",
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1987
+            "stars": 1988
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:43.469Z",
+    "last_updated": "2026-08-24T14:50:24.545Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
