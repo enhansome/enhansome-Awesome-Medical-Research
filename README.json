@@ -30,7 +30,7 @@
             "last_commit": "2024-07-03T19:31:10Z",
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4174
+            "stars": 4173
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22952
+            "stars": 22953
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10897
+            "stars": 10898
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:58.005Z",
+    "last_updated": "2026-08-25T23:36:50.386Z",
     "original_repository": "Engineering-Course/Awesome-Medical-Research",
     "original_repository_id": 145706796,
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
