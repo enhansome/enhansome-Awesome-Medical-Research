@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,954 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07
 
@@ -64,11 +64,11 @@ Awesome list for deep learning on medical research
 
 ## Lesion Detection
 
-* Deep Lesion Graphs in the Wild [`CVPR 2018`](https://arxiv.org/pdf/1711.10535.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* Deep Lesion Graphs in the Wild [`CVPR 2018`](https://arxiv.org/pdf/1711.10535.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
-* DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [`JMI 2018`](https://arxiv.org/pdf/1710.01766.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [`JMI 2018`](https://arxiv.org/pdf/1710.01766.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
-* 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [`MICCAI 2018`](https://arxiv.org/pdf/1806.09648.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 462 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
+* 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [`MICCAI 2018`](https://arxiv.org/pdf/1806.09648.pdf) [`code`](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE) ⭐ 461 | 🐛 19 | 🌐 C++ | 📅 2024-08-15
 
 ## Object Dection
 

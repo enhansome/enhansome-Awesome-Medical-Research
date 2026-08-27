@@ -126,7 +126,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953
+            "stars": 22954
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 462
+            "stars": 461
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 462
+            "stars": 461
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-08-15T21:52:52Z",
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 462
+            "stars": 461
           }
         }
       ],
@@ -560,9 +560,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:54.559Z",
-    "original_repository": "Engineering-Course/Awesome-Medical-Research",
-    "original_repository_id": 145706796,
+    "last_updated": "2026-08-27T11:23:33.944Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 145706796,
+      "language": null,
+      "last_commit": "2020-10-01T11:23:20Z",
+      "owner": "Engineering-Course",
+      "repo": "Awesome-Medical-Research",
+      "stars": 50
+    },
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Research",
     "enhanced_repository_description": null,
