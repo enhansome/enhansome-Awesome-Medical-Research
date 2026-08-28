@@ -16,7 +16,8 @@
             "owner": "codertimo",
             "repo": "BERT-pytorch",
             "stars": 6527
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-07-03T19:31:10Z",
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4174
-          }
+            "stars": 4175
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
             "stars": 831
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "HLTCHKUST",
             "repo": "Mem2Seq",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "MiuLab",
             "repo": "KB-InfoBot",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "stanfordnlp",
             "repo": "cocoa",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "LiuQL2",
             "repo": "MedicalChatbot",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Dialog Systems"
@@ -127,7 +134,8 @@
             "owner": "sebastianruder",
             "repo": "NLP-progress",
             "stars": 22954
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "thunlp",
             "repo": "OpenQA",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "victorywys",
             "repo": "Learning2Ask_TypedDecoder",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Question Answering Systems"
@@ -193,7 +204,8 @@
             "owner": "rsummers11",
             "repo": "CADLab",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "rsummers11",
             "repo": "CADLab",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "rsummers11",
             "repo": "CADLab",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Lesion Detection"
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-28T01:33:46Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
-          }
+            "stars": 77658
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "tkipf",
             "repo": "gcn",
             "stars": 7400
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "princeton-vl",
             "repo": "CornerNet",
             "stars": 2369
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "ethanhe42",
             "repo": "softer-NMS",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "reedscot",
             "repo": "cvpr2016",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Object Dection"
@@ -325,7 +344,8 @@
             "owner": "shehzaadzd",
             "repo": "MINERVA",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "shagunsodhani",
             "repo": "Graph-Reading-Group",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "lukecq1231",
             "repo": "nli",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "feifengwhu",
             "repo": "NLP_External_knowledge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Graph Reasoning"
@@ -390,8 +413,9 @@
             "last_commit": "2023-06-02T18:55:09Z",
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17464
-          }
+            "stars": 17465
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "lil-lab",
             "repo": "newsroom",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Natural Language Processing"
@@ -427,7 +452,8 @@
             "owner": "google",
             "repo": "dopamine",
             "stars": 10900
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -441,8 +467,9 @@
             "last_commit": "2022-12-08T18:07:05Z",
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3131
-          }
+            "stars": 3130
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -457,7 +484,8 @@
             "owner": "thunlp",
             "repo": "NRE",
             "stars": 808
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -472,7 +500,8 @@
             "owner": "thunlp",
             "repo": "OpenQA",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -487,7 +516,8 @@
             "owner": "thunlp",
             "repo": "JointNRE",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Online Resources"
@@ -508,7 +538,8 @@
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
             "stars": 2362
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -523,7 +554,8 @@
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
             "stars": 1988
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -538,7 +570,8 @@
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
             "stars": 1608
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         },
         {
           "node_type": "item",
@@ -553,14 +586,15 @@
             "owner": "seokkim",
             "repo": "Awesome-Medical-Imaging",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:55:48.845Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:33.944Z",
+    "last_updated": "2026-08-28T06:55:48.845Z",
     "original_repository_info": {
       "archived": false,
       "id": 145706796,
