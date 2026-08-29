@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google AI 2018 BERT pytorch implementation",
+            "homepage": null,
             "id": 153113207,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-15T12:57:08Z",
+            "open_issues": 68,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6527
+            "stars": 6527,
+            "topics": [
+              "bert",
+              "language-model",
+              "nlp",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -26,12 +37,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The most awesome list about bots ⭐️🤖",
+            "homepage": "https://doppler.com",
             "id": 83300971,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-03T19:31:10Z",
+            "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4175
+            "stars": 4175,
+            "topics": [
+              "alexa",
+              "alexa-sdk",
+              "alexa-skills-kit",
+              "awesome",
+              "awesome-list",
+              "bot-framework",
+              "bots",
+              "chatbot",
+              "chatbots",
+              "cortana",
+              "facebook-bot",
+              "facebook-messenger",
+              "facebook-messenger-platform",
+              "messenger-bot",
+              "siri",
+              "slack",
+              "slack-bot",
+              "slackbot",
+              "telegram-bot",
+              "voice-assistant"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -42,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 80040378,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-07-12T12:18:28Z",
+            "open_issues": 14,
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
-            "stars": 831
+            "stars": 831,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -58,12 +100,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+            "homepage": null,
             "id": 130682052,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T21:56:10Z",
+            "open_issues": 11,
             "owner": "HLTCHKUST",
             "repo": "Mem2Seq",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "deep-learning",
+              "dialogue-systems",
+              "end-to-end-learning",
+              "memory-network"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -74,12 +126,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dialogue bot for information access",
+            "homepage": null,
             "id": 88800267,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-04T14:17:30Z",
+            "open_issues": 2,
             "owner": "MiuLab",
             "repo": "KB-InfoBot",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "deep-learning",
+              "dialogue-systems",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -90,12 +151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for learning dialogue agents in a two-player game setting.",
+            "homepage": null,
             "id": 65188526,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-04T17:30:31Z",
+            "open_issues": 4,
             "owner": "stanfordnlp",
             "repo": "cocoa",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -106,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical-domain Dialogue System for Diseases Identification",
+            "homepage": null,
             "id": 114236100,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-24T23:55:34Z",
+            "open_issues": 12,
             "owner": "LiuQL2",
             "repo": "MedicalChatbot",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -128,12 +199,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+            "homepage": "https://nlpprogress.com/",
             "id": 138331573,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-28T00:44:25Z",
+            "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954
+            "stars": 22954,
+            "topics": [
+              "dialogue",
+              "machine-learning",
+              "machine-translation",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp-tasks"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -144,12 +227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Q&A reading list ",
+            "homepage": null,
             "id": 59876005,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-10-07T10:19:09Z",
+            "open_issues": 5,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "arxiv",
+              "papers",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -160,12 +252,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of ACL 2018 paper \"Denoising Distantly Supervised Open-Domain Question Answering\".",
+            "homepage": null,
             "id": 132556797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-07T09:50:10Z",
+            "open_issues": 2,
             "owner": "thunlp",
             "repo": "OpenQA",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "question-answering",
+              "reading-comprehension"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -176,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 131484299,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-09T03:09:44Z",
+            "open_issues": 12,
             "owner": "victorywys",
             "repo": "Learning2Ask_TypedDecoder",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -198,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Imaging Biomarkers and Computer-Aided Diagnosis Laboratory",
+            "homepage": "https://www.cc.nih.gov/meet-our-doctors/rsummers.html",
             "id": 23888481,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-08-15T21:52:52Z",
+            "open_issues": 19,
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -214,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Imaging Biomarkers and Computer-Aided Diagnosis Laboratory",
+            "homepage": "https://www.cc.nih.gov/meet-our-doctors/rsummers.html",
             "id": 23888481,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-08-15T21:52:52Z",
+            "open_issues": 19,
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -230,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Imaging Biomarkers and Computer-Aided Diagnosis Laboratory",
+            "homepage": "https://www.cc.nih.gov/meet-our-doctors/rsummers.html",
             "id": 23888481,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-08-15T21:52:52Z",
+            "open_issues": 19,
             "owner": "rsummers11",
             "repo": "CADLab",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -252,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -268,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Graph Convolutional Networks in TensorFlow",
+            "homepage": null,
             "id": 73470551,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-14T08:09:28Z",
+            "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7400
+            "stars": 7400,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -284,12 +414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 143365050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-18T18:59:28Z",
+            "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2369
+            "stars": 2369,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -300,12 +435,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bounding Box Regression with Uncertainty for Accurate Object Detection (CVPR'19)",
+            "homepage": "https://github.com/ethanhe42/KL-Loss",
             "id": 149854106,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-02T06:40:17Z",
+            "open_issues": 1,
             "owner": "ethanhe42",
             "repo": "softer-NMS",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "object-detection"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -316,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Deep Representations of Fine-grained Visual Descriptions",
+            "homepage": "http://arxiv.org/abs/1605.05395",
             "id": 60035701,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-05-04T10:32:18Z",
+            "open_issues": 11,
             "owner": "reedscot",
             "repo": "cvpr2016",
-            "stars": 337
+            "stars": 337,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -338,12 +485,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meandering In Networks of Entities to Reach Verisimilar Answers",
+            "homepage": null,
             "id": 112058606,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-19T16:01:41Z",
+            "open_issues": 8,
             "owner": "shehzaadzd",
             "repo": "MINERVA",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "knowledge-graph",
+              "machine-learning",
+              "natural-language-processing",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -354,12 +511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Weekly reading group on Graphs at Mila",
+            "homepage": "https://shagunsodhani.com/Graph-Reading-Group/",
             "id": 129108774,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-04-25T13:55:00Z",
+            "open_issues": 0,
             "owner": "shagunsodhani",
             "repo": "Graph-Reading-Group",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -370,12 +532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced LTSM for natural language inference",
+            "homepage": null,
             "id": 88917691,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-18T07:06:42Z",
+            "open_issues": 10,
             "owner": "lukecq1231",
             "repo": "nli",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -386,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 137967548,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-05T12:15:32Z",
+            "open_issues": 1,
             "owner": "feifengwhu",
             "repo": "NLP_External_knowledge",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -408,12 +580,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+            "homepage": null,
             "id": 94460704,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-02T18:55:09Z",
+            "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17465
+            "stars": 17465,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "machine-translation",
+              "reinforcement-learning",
+              "tpu"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -424,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for downloading and analyzing summaries and evaluating summarization systems. https://summari.es/",
+            "homepage": null,
             "id": 131306570,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-08T16:53:11Z",
+            "open_issues": 0,
             "owner": "lil-lab",
             "repo": "newsroom",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -446,12 +634,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
+            "homepage": "https://github.com/google/dopamine",
             "id": 142422739,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T18:11:40Z",
+            "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10900
+            "stars": 10901,
+            "topics": [
+              "ai",
+              "google",
+              "ml",
+              "rl",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -462,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Reinforcement Learning",
+            "homepage": null,
             "id": 144027556,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-08T18:07:05Z",
+            "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3130
+            "stars": 3130,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -478,12 +682,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Relation Extraction, including CNN, PCNN, CNN+ATT, PCNN+ATT",
+            "homepage": null,
             "id": 60605141,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-07-30T04:48:20Z",
+            "open_issues": 16,
             "owner": "thunlp",
             "repo": "NRE",
-            "stars": 808
+            "stars": 808,
+            "topics": [
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -494,12 +705,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of ACL 2018 paper \"Denoising Distantly Supervised Open-Domain Question Answering\".",
+            "homepage": null,
             "id": 132556797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-07T09:50:10Z",
+            "open_issues": 2,
             "owner": "thunlp",
             "repo": "OpenQA",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "question-answering",
+              "reading-comprehension"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -510,12 +729,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joint Neural Relation Extraction with Text and KGs",
+            "homepage": null,
             "id": 111351969,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-03T06:52:50Z",
+            "open_issues": 1,
             "owner": "thunlp",
             "repo": "JointNRE",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -532,12 +758,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome GAN for Medical Imaging",
+            "homepage": null,
             "id": 101222904,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-29T21:59:19Z",
+            "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362
+            "stars": 2362,
+            "topics": [
+              "ct-denoising",
+              "deeplearning",
+              "detection",
+              "gan",
+              "generative-adversarial-network",
+              "medical-image-synthesis",
+              "medical-imaging",
+              "reconstruction",
+              "registration",
+              "segmentation",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -548,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome deep learning applications in the field of computational biology",
+            "homepage": null,
             "id": 50022436,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-07T22:43:41Z",
+            "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1988
+            "stars": 1988,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -564,12 +812,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Papers on Medical Image Analysis",
+            "homepage": null,
             "id": 84648401,
             "language": "TeX",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-01T08:51:47Z",
+            "open_issues": 2,
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1608
+            "stars": 1608,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "medical-imaging",
+              "medical-informatics"
+            ]
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         },
@@ -580,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79212678,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-26T06:34:05Z",
+            "open_issues": 0,
             "owner": "seokkim",
             "repo": "Awesome-Medical-Imaging",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
         }
@@ -594,15 +857,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:48.845Z",
+    "last_updated": "2026-08-29T03:59:04.227Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list for deep learning on medical research",
+      "homepage": null,
       "id": 145706796,
       "language": null,
+      "license": null,
       "last_commit": "2020-10-01T11:23:20Z",
+      "open_issues": 0,
       "owner": "Engineering-Course",
       "repo": "Awesome-Medical-Research",
-      "stars": 50
+      "stars": 50,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "medical-application"
+      ]
     },
     "original_repository_sha": "a242fc3675ca6ecc376e8ac08a2c3839e160a3ef",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Research",
