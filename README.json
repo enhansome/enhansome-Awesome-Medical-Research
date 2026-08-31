@@ -381,7 +381,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17464,
+            "stars": 17465,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:14:50.185Z",
+    "last_updated": "2026-08-31T01:22:28.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
