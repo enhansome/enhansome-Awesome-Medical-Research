@@ -34,7 +34,7 @@ Awesome list for deep learning on medical research
 
 * Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access [`arxiv`](https://arxiv.org/pdf/1609.00777.pdf) [`code`](https://github.com/MiuLab/KB-InfoBot) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2018-07-04
 
-* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 162 | 🐛 4 | 🌐 Python | 📅 2022-10-04
+* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 163 | 🐛 4 | 🌐 Python | 📅 2022-10-04
 
 * Task-oriented Dialogue System for Automatic Diagnosis [`ACL 2018`](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [`code`](https://github.com/LiuQL2/MedicalChatbot) ⭐ 130 | 🐛 12 | 🌐 Python | 📅 2023-03-24
 
@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,950 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,904 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,907 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
