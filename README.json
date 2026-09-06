@@ -19,7 +19,7 @@
             "open_issues": 68,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6526,
+            "stars": 6527,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4177,
+            "stars": 4178,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -767,7 +767,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362,
+            "stars": 2361,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:56:58.844Z",
+    "last_updated": "2026-09-06T00:56:20.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
