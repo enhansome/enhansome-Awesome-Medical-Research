@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4178,
+            "stars": 4177,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -494,7 +494,7 @@
             "open_issues": 8,
             "owner": "shehzaadzd",
             "repo": "MINERVA",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "knowledge-graph",
               "machine-learning",
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17469,
+            "stars": 17468,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:00:42.697Z",
+    "last_updated": "2026-09-08T01:12:13.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
