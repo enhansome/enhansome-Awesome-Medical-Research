@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4177,
+            "stars": 4178,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22952,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -233,7 +233,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2018-10-07T10:19:09Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
             "stars": 437,
@@ -378,10 +378,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T00:14:58Z",
-            "open_issues": 1273,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7401,
+            "stars": 7402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -423,7 +423,7 @@
             "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2369,
+            "stars": 2368,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17468,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10909,
+            "stars": 10910,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:12:13.537Z",
+    "last_updated": "2026-09-09T01:14:35.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",

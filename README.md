@@ -46,9 +46,9 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
-* Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07
+* Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07
 
 * Denoising Distantly Supervised Open-Domain Question Answering [`ACL 2018`](http://aclweb.org/anthology/P18-1161) [`code`](https://github.com/thunlp/OpenQA) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2018-11-07
 
@@ -73,11 +73,11 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,660 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,656 | 🐛 1,274 | 🌐 Python | 📅 2026-09-05 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,401 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,402 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
-* CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,369 | 🐛 134 | 🌐 Python | 📅 2020-09-18
+* CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,368 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
 * Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection [`arxiv`](https://arxiv.org/abs/1809.08545) [`code`](https://github.com/yihui-he/softer-NMS) ⭐ 366 | 🐛 1 | 🌐 Python | 📅 2024-05-02
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,909 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,910 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
