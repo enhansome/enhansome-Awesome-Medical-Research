@@ -73,7 +73,7 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,659 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,661 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,400 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -211,7 +211,7 @@ Awesome list for deep learning on medical research
 
 * [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
 
-* [MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection) ⭐ 729 | 🐛 12 | 🌐 Python | 📅 2020-09-15
+* [MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection) ⭐ 730 | 🐛 12 | 🌐 Python | 📅 2020-09-15
 
 ## Related Awesome Lists
 
@@ -219,7 +219,7 @@ Awesome list for deep learning on medical research
 
 * [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,989 | 🐛 6 | 📅 2021-11-07
 
-* [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,608 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
+* [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,609 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
 * [Awesome-Medical-Imaging](https://github.com/seokkim/Awesome-Medical-Imaging) ⭐ 19 | 🐛 0 | 📅 2017-03-26
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
