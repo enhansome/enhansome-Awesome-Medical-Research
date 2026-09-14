@@ -24,7 +24,7 @@ Awesome list for deep learning on medical research
 
 ## Dialog Systems
 
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15
 
 * KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [`ICLR 2019`](https://openreview.net/pdf?id=r1l73iRqKm) [`related code`](https://github.com/GetStoryline/awesome-bots) ⚠️ Archived [`related code`](https://github.com/ricsinaruto/Seq2seqChatbots) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -34,7 +34,7 @@ Awesome list for deep learning on medical research
 
 * Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access [`arxiv`](https://arxiv.org/pdf/1609.00777.pdf) [`code`](https://github.com/MiuLab/KB-InfoBot) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2018-07-04
 
-* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 163 | 🐛 4 | 🌐 Python | 📅 2022-10-04
+* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 164 | 🐛 4 | 🌐 Python | 📅 2022-10-04
 
 * Task-oriented Dialogue System for Automatic Diagnosis [`ACL 2018`](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [`code`](https://github.com/LiuQL2/MedicalChatbot) ⭐ 130 | 🐛 12 | 🌐 Python | 📅 2023-03-24
 
@@ -73,9 +73,9 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,661 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,660 | 🐛 1,274 | 🌐 Python | 📅 2026-09-10 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,400 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,400 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,397 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
 * CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,368 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,912 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,914 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
