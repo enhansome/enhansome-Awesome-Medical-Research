@@ -46,7 +46,7 @@ Awesome list for deep learning on medical research
 
 ## Question Answering Systems
 
-* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,951 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* Improving Question Answering by Commonsense-Based Pre-Training [`arxiv`](https://arxiv.org/abs/1809.03568) [`related`](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md) ⭐ 22,950 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 
 * Learning Visual Knowledge Memory Networks for Visual Question Answering [`CVPR 2018`](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [`related code`](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07
 
@@ -73,7 +73,7 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,652 | 🐛 1,271 | 🌐 Python | 📅 2026-09-16 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-09-16 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,403 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,397 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -103,7 +103,7 @@ Awesome list for deep learning on medical research
 
 * Universal Transformers [`arxiv`](https://arxiv.org/pdf/1807.03819.pdf) [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py) ⚠️ Archived
 
-* NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies [`NAACL 2018`](https://yoavartzi.com/pub/gna-naacl.2018.pdf) [`code`](https://github.com/clic-lab/newsroom) ⭐ 152 | 🐛 0 | 🌐 Perl | 📅 2023-08-08
+* NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies [`NAACL 2018`](https://yoavartzi.com/pub/gna-naacl.2018.pdf) [`code`](https://github.com/clic-lab/newsroom) ⭐ 151 | 🐛 0 | 🌐 Perl | 📅 2023-08-08
 
 * Contextual and Structural Language [`semanticscholar`](https://pdfs.semanticscholar.org/e86b/b512325f4e6b39446337999b8c9933867649.pdf)
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
