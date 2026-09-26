@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4183,
+            "stars": 4184,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22952,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17477,
+            "stars": 17476,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -767,7 +767,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2358,
+            "stars": 2359,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:29:29.162Z",
+    "last_updated": "2026-09-26T01:32:35.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
