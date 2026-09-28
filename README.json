@@ -381,7 +381,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10914,
+            "stars": 10915,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:26:23.861Z",
+    "last_updated": "2026-09-28T01:38:55.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
