@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4184,
+            "stars": 4185,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -88,7 +88,7 @@
             "open_issues": 14,
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -378,7 +378,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T00:07:29Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -423,7 +423,7 @@
             "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2369,
+            "stars": 2370,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17472,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10917,
+            "stars": 10918,
             "topics": [
               "ai",
               "google",
@@ -767,7 +767,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2359,
+            "stars": 2360,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -800,7 +800,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1990,
+            "stars": 1989,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -821,7 +821,7 @@
             "open_issues": 2,
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1613,
+            "stars": 1612,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:06:48.925Z",
+    "last_updated": "2026-10-01T02:08:31.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
