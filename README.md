@@ -24,7 +24,7 @@ Awesome list for deep learning on medical research
 
 ## Dialog Systems
 
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,529 | 🐛 68 | 🌐 Python | 📅 2023-09-15
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,530 | 🐛 68 | 🌐 Python | 📅 2023-09-15
 
 * KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [`ICLR 2019`](https://openreview.net/pdf?id=r1l73iRqKm) [`related code`](https://github.com/GetStoryline/awesome-bots) ⚠️ Archived [`related code`](https://github.com/ricsinaruto/Seq2seqChatbots) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -73,11 +73,11 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-09-29 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,652 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,406 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,407 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,399 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
-* CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,370 | 🐛 134 | 🌐 Python | 📅 2020-09-18
+* CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,371 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
 * Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection [`arxiv`](https://arxiv.org/abs/1809.08545) [`code`](https://github.com/yihui-he/softer-NMS) ⭐ 366 | 🐛 1 | 🌐 Python | 📅 2024-05-02
 
@@ -217,7 +217,7 @@ Awesome list for deep learning on medical research
 
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,360 | 🐛 2 | 📅 2022-05-29
 
-* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,989 | 🐛 6 | 📅 2021-11-07
+* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,990 | 🐛 6 | 📅 2021-11-07
 
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,612 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
