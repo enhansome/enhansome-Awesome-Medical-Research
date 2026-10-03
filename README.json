@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
-          "description": null,
+          "description": "codertimo/BERT-pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "KNOWLEDGE-POWERED CONVERSATIONAL AGENTS",
-          "description": null,
+          "description": "DopplerHQ/awesome-bots",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4185,
+            "stars": 4186,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Knowledge Diffusion for Neural Dialogue Generation",
-          "description": null,
+          "description": "jiweil/Neural-Dialogue-Generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
-          "description": null,
+          "description": "HLTCHKUST/Mem2Seq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access",
-          "description": null,
+          "description": "MiuLab/KB-InfoBot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -147,7 +147,7 @@
         {
           "node_type": "item",
           "title": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings",
-          "description": null,
+          "description": "stanfordnlp/cocoa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -168,7 +168,7 @@
         {
           "node_type": "item",
           "title": "Task-oriented Dialogue System for Automatic Diagnosis",
-          "description": null,
+          "description": "LiuQL2/MedicalChatbot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "Improving Question Answering by Commonsense-Based Pre-Training",
-          "description": null,
+          "description": "sebastianruder/NLP-progress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "Learning Visual Knowledge Memory Networks for Visual Question Answering",
-          "description": null,
+          "description": "chingyaoc/awesome-vqa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Denoising Distantly Supervised Open-Domain Question Answering",
-          "description": null,
+          "description": "thunlp/OpenQA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
         {
           "node_type": "item",
           "title": "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders",
-          "description": null,
+          "description": "victorywys/Learning2Ask_TypedDecoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
         {
           "node_type": "item",
           "title": "Deep Lesion Graphs in the Wild",
-          "description": null,
+          "description": "rsummers11/CADLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
         {
           "node_type": "item",
           "title": "DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning",
-          "description": null,
+          "description": "rsummers11/CADLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection",
-          "description": null,
+          "description": "rsummers11/CADLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,7 +368,7 @@
         {
           "node_type": "item",
           "title": "Searching for Efficient Multi-Scale Architectures for Dense Image Prediction",
-          "description": null,
+          "description": "tensorflow/models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -389,7 +389,7 @@
         {
           "node_type": "item",
           "title": "Higher-order Graph Convolutional Networks",
-          "description": null,
+          "description": "tkipf/gcn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,7 +410,7 @@
         {
           "node_type": "item",
           "title": "CornerNet: Detecting Objects as Paired Keypoints",
-          "description": null,
+          "description": "princeton-vl/CornerNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,7 +431,7 @@
         {
           "node_type": "item",
           "title": "Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection",
-          "description": null,
+          "description": "ethanhe42/softer-NMS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
         {
           "node_type": "item",
           "title": "Learning Deep Representations for Visual Recognition",
-          "description": null,
+          "description": "reedscot/cvpr2016",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,7 +481,7 @@
         {
           "node_type": "item",
           "title": "GO FOR A WALK AND ARRIVE AT THE ANSWER",
-          "description": null,
+          "description": "shehzaadzd/MINERVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks",
-          "description": null,
+          "description": "shagunsodhani/Graph-Reading-Group",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -528,7 +528,7 @@
         {
           "node_type": "item",
           "title": "Enhanced LSTM for Natural Language Inference",
-          "description": null,
+          "description": "lukecq1231/nli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -549,7 +549,7 @@
         {
           "node_type": "item",
           "title": "Neural Natural Language Inference Models Enhanced with External Knowledge",
-          "description": null,
+          "description": "feifengwhu/NLP_External_knowledge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -576,7 +576,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": null,
+          "description": "tensorflow/tensor2tensor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -603,7 +603,7 @@
         {
           "node_type": "item",
           "title": "NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies",
-          "description": null,
+          "description": "lil-lab/newsroom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -630,7 +630,7 @@
         {
           "node_type": "item",
           "title": "DeepMind开源强化学习库“多巴胺”",
-          "description": null,
+          "description": "google/dopamine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +657,7 @@
         {
           "node_type": "item",
           "title": "DeepMind开源强化学习库“松露”",
-          "description": null,
+          "description": "google-deepmind/trfl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "thunlp NRE",
-          "description": null,
+          "description": "thunlp/NRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "Open QA",
-          "description": null,
+          "description": "thunlp/OpenQA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,7 +725,7 @@
         {
           "node_type": "item",
           "title": "thunlp JointNRE",
-          "description": null,
+          "description": "thunlp/JointNRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "Awesome GAN for Medical Imaging",
-          "description": null,
+          "description": "xinario/awesome-gan-for-medical-imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +787,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Deepbio",
-          "description": null,
+          "description": "gokceneraslan/awesome-deepbio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning Papers on Medical Image Analysis",
-          "description": null,
+          "description": "albarqouni/Deep-Learning-for-Medical-Applications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -834,7 +834,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Medical-Imaging",
-          "description": null,
+          "description": "seokkim/Awesome-Medical-Imaging",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:56:18.894Z",
+    "last_updated": "2026-10-03T04:28:06.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
