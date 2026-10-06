@@ -73,9 +73,9 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,656 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,657 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
-* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,407 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
+* Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,407 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,399 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
 * CornerNet: Detecting Objects as Paired Keypoints [`arxiv`](https://arxiv.org/pdf/1808.01244.pdf) [`code`](https://github.com/princeton-vl/CornerNet) ⭐ 2,371 | 🐛 134 | 🌐 Python | 📅 2020-09-18
 
@@ -171,7 +171,7 @@ Awesome list for deep learning on medical research
 
 * [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,918 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
-* [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,129 | 🐛 6 | 🌐 Python | 📅 2022-12-08
+* [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08
 
 * [thunlp NRE](https://github.com/thunlp/NRE) ⭐ 808 | 🐛 16 | 🌐 C++ | 📅 2020-07-30
 
