@@ -381,7 +381,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77657,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7407,
+            "stars": 7408,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17477,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10918,
+            "stars": 10919,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:40.428Z",
+    "last_updated": "2026-10-07T02:22:36.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
