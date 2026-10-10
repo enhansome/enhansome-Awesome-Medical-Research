@@ -19,7 +19,7 @@
             "open_issues": 68,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6530,
+            "stars": 6529,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4189,
+            "stars": 4191,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22948,
+            "stars": 22949,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -236,7 +236,7 @@
             "open_issues": 6,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "arxiv",
               "papers",
@@ -378,10 +378,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1270,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10923,
+            "stars": 10925,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:56:19.390Z",
+    "last_updated": "2026-10-10T02:19:24.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
