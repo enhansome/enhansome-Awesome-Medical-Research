@@ -19,7 +19,7 @@
             "open_issues": 68,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6532,
+            "stars": 6531,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4194,
+            "stars": 4195,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22952,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7410,
+            "stars": 7412,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10927,
+            "stars": 10928,
             "topics": [
               "ai",
               "google",
@@ -847,7 +847,7 @@
             "open_issues": 0,
             "owner": "seokkim",
             "repo": "Awesome-Medical-Imaging",
-            "stars": 19,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:18:34.083Z",
+    "last_updated": "2026-10-18T01:01:17.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
