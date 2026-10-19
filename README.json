@@ -19,7 +19,7 @@
             "open_issues": 68,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6531,
+            "stars": 6530,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4195,
+            "stars": 4196,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -88,7 +88,7 @@
             "open_issues": 14,
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
-            "stars": 832,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77644,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7412,
+            "stars": 7411,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17475,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10928,
+            "stars": 10926,
             "topics": [
               "ai",
               "google",
@@ -670,7 +670,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3130,
+            "stars": 3129,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:01:17.213Z",
+    "last_updated": "2026-10-19T01:15:36.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
