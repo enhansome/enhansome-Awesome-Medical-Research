@@ -377,11 +377,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T04:11:20Z",
+            "last_commit": "2026-10-20T17:11:38Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77648,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17475,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -616,7 +616,7 @@
             "open_issues": 0,
             "owner": "lil-lab",
             "repo": "newsroom",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:49:16.615Z",
+    "last_updated": "2026-10-21T01:34:39.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",

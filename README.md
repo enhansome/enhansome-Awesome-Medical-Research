@@ -73,7 +73,7 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,645 | 🐛 1,274 | 🌐 Python | 📅 2026-10-13 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,648 | 🐛 1,274 | 🌐 Python | 📅 2026-10-20 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,412 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,398 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -103,7 +103,7 @@ Awesome list for deep learning on medical research
 
 * Universal Transformers [`arxiv`](https://arxiv.org/pdf/1807.03819.pdf) [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py) ⚠️ Archived
 
-* NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies [`NAACL 2018`](https://yoavartzi.com/pub/gna-naacl.2018.pdf) [`code`](https://github.com/clic-lab/newsroom) ⭐ 151 | 🐛 0 | 🌐 Perl | 📅 2023-08-08
+* NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies [`NAACL 2018`](https://yoavartzi.com/pub/gna-naacl.2018.pdf) [`code`](https://github.com/clic-lab/newsroom) ⭐ 152 | 🐛 0 | 🌐 Perl | 📅 2023-08-08
 
 * Contextual and Structural Language [`semanticscholar`](https://pdfs.semanticscholar.org/e86b/b512325f4e6b39446337999b8c9933867649.pdf)
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
