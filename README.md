@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,927 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,928 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 7 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
