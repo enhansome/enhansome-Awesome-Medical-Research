@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22955,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77642,
+            "stars": 77638,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:21:15.389Z",
+    "last_updated": "2026-11-01T02:13:07.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
