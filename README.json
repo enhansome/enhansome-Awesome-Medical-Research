@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6531,
+            "stars": 6530,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4203,
+            "stars": 4206,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -643,7 +643,7 @@
             "open_issues": 112,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10930,
+            "stars": 10931,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:13:07.796Z",
+    "last_updated": "2026-11-02T02:29:35.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",

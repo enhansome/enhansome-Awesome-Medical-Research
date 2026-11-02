@@ -24,7 +24,7 @@ Awesome list for deep learning on medical research
 
 ## Dialog Systems
 
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,531 | 🐛 67 | 🌐 Python | 📅 2023-09-15
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [`arxiv`](https://arxiv.org/abs/1810.04805) [`code`](https://github.com/codertimo/BERT-pytorch) ⭐ 6,530 | 🐛 67 | 🌐 Python | 📅 2023-09-15
 
 * KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [`ICLR 2019`](https://openreview.net/pdf?id=r1l73iRqKm) [`related code`](https://github.com/GetStoryline/awesome-bots) ⚠️ Archived [`related code`](https://github.com/ricsinaruto/Seq2seqChatbots) ⭐ 471 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,930 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,931 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 7 | 🌐 Python | 📅 2022-12-08
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
