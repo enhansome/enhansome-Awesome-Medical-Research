@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77637,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -767,7 +767,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362,
+            "stars": 2361,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:55:36.824Z",
+    "last_updated": "2026-11-04T02:59:59.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
