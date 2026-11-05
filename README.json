@@ -88,7 +88,7 @@
             "open_issues": 14,
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
-            "stars": 832,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22958,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7417,
+            "stars": 7418,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -423,7 +423,7 @@
             "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2372,
+            "stars": 2371,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -821,7 +821,7 @@
             "open_issues": 2,
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1615,
+            "stars": 1616,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:59:59.606Z",
+    "last_updated": "2026-11-05T03:28:59.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
