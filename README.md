@@ -169,7 +169,7 @@ Awesome list for deep learning on medical research
 
 ## Online Resources
 
-* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,931 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine) ⭐ 10,930 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-03-24
 
 * [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 7 | 🌐 Python | 📅 2022-12-08
 
@@ -215,11 +215,11 @@ Awesome list for deep learning on medical research
 
 ## Related Awesome Lists
 
-* [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,361 | 🐛 2 | 📅 2022-05-29
+* [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,362 | 🐛 2 | 📅 2022-05-29
 
 * [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,997 | 🐛 6 | 📅 2021-11-07
 
-* [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,616 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
+* [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,617 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
 * [Awesome-Medical-Imaging](https://github.com/seokkim/Awesome-Medical-Imaging) ⭐ 18 | 🐛 0 | 📅 2017-03-26
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
