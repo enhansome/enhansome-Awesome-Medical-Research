@@ -34,7 +34,7 @@ Awesome list for deep learning on medical research
 
 * Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access [`arxiv`](https://arxiv.org/pdf/1609.00777.pdf) [`code`](https://github.com/MiuLab/KB-InfoBot) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2018-07-04
 
-* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 164 | 🐛 4 | 🌐 Python | 📅 2022-10-04
+* Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [`ACL 2017`](https://arxiv.org/pdf/1704.07130.pdf) [`code`](https://github.com/stanfordnlp/cocoa) ⭐ 165 | 🐛 4 | 🌐 Python | 📅 2022-10-04
 
 * Task-oriented Dialogue System for Automatic Diagnosis [`ACL 2018`](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [`code`](https://github.com/LiuQL2/MedicalChatbot) ⭐ 131 | 🐛 12 | 🌐 Python | 📅 2023-03-24
 
@@ -73,7 +73,7 @@ Awesome list for deep learning on medical research
 ## Object Dection
 
 * Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arxiv`](https://arxiv.org/pdf/1809.04184.pdf)
-  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,634 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
+  [`related code`](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,635 | 🐛 1,276 | 🌐 Python | 📅 2026-11-02 [`related`](https://github.com/bonlime/keras-deeplab-v3-plus) ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13
 
 * Higher-order Graph Convolutional Networks [`arxiv`](https://arxiv.org/abs/1809.07697) [`related code`](https://github.com/tkipf/gcn) ⭐ 7,418 | 🐛 124 | 🌐 Python | 📅 2023-04-14 [`related code`](https://github.com/tkipf/keras-gcn) ⭐ 792 | 🐛 29 | 🌐 Python | 📅 2021-04-19 [`related code`](https://github.com/tkipf/pygcn) ⭐ 5,399 | 🐛 58 | 🌐 Python | 📅 2020-09-20
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
