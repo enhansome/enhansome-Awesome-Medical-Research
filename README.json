@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4209,
+            "stars": 4211,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17472,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:46:16.087Z",
+    "last_updated": "2026-11-12T03:48:02.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
