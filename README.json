@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22955,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77632,
+            "stars": 77629,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10933,
+            "stars": 10934,
             "topics": [
               "ai",
               "google",
@@ -800,7 +800,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1999,
+            "stars": 1998,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:38:35.542Z",
+    "last_updated": "2026-11-16T02:43:13.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
