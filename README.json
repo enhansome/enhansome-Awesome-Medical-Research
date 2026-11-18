@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4212,
+            "stars": 4213,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22958,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77628,
+            "stars": 77629,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7417,
+            "stars": 7418,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -423,7 +423,7 @@
             "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2371,
+            "stars": 2372,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17471,
+            "stars": 17473,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -643,7 +643,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10934,
+            "stars": 10935,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:04:01.398Z",
+    "last_updated": "2026-11-18T04:18:42.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
