@@ -88,7 +88,7 @@
             "open_issues": 14,
             "owner": "jiweil",
             "repo": "Neural-Dialogue-Generation",
-            "stars": 831,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22958,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77628,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10935,
+            "stars": 10934,
             "topics": [
               "ai",
               "google",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:18:42.182Z",
+    "last_updated": "2026-11-19T04:10:41.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
