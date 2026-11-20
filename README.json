@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6531,
+            "stars": 6527,
             "topics": [
               "bert",
               "language-model",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "DopplerHQ",
             "repo": "awesome-bots",
-            "stars": 4213,
+            "stars": 4212,
             "topics": [
               "alexa",
               "alexa-sdk",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77628,
+            "stars": 77631,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -423,7 +423,7 @@
             "open_issues": 134,
             "owner": "princeton-vl",
             "repo": "CornerNet",
-            "stars": 2372,
+            "stars": 2371,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10934,
+            "stars": 10933,
             "topics": [
               "ai",
               "google",
@@ -800,7 +800,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1998,
+            "stars": 1996,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -821,7 +821,7 @@
             "open_issues": 2,
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1617,
+            "stars": 1616,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:10:41.521Z",
+    "last_updated": "2026-11-20T03:58:07.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
