@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -589,7 +589,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17473,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -670,7 +670,7 @@
             "open_issues": 7,
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3130,
+            "stars": 3129,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -767,7 +767,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:25:28.644Z",
+    "last_updated": "2026-11-26T05:01:17.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
