@@ -85,7 +85,7 @@ Awesome list for deep learning on medical research
 
 ## Graph Reasoning
 
-* GO FOR A WALK AND ARRIVE AT THE ANSWER [`ICLR 2018`](https://arxiv.org/pdf/1711.05851.pdf) [`code`](https://github.com/shehzaadzd/MINERVA) ⭐ 323 | 🐛 8 | 🌐 Python | 📅 2026-10-27
+* GO FOR A WALK AND ARRIVE AT THE ANSWER [`ICLR 2018`](https://arxiv.org/pdf/1711.05851.pdf) [`code`](https://github.com/shehzaadzd/MINERVA) ⭐ 322 | 🐛 8 | 🌐 Python | 📅 2026-10-27
 
 * Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks [`arxiv`](https://arxiv.org/pdf/1809.02040.pdf) [`related link`](https://github.com/shagunsodhani/Graph-Reading-Group) ⭐ 280 | 🐛 0 | 📅 2019-04-25
 
@@ -217,7 +217,7 @@ Awesome list for deep learning on medical research
 
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) ⭐ 2,363 | 🐛 2 | 📅 2022-05-29
 
-* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,996 | 🐛 6 | 📅 2021-11-07
+* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio) ⭐ 1,994 | 🐛 6 | 📅 2021-11-07
 
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,616 | 🐛 2 | 🌐 TeX | 📅 2022-04-01
 
@@ -229,4 +229,4 @@ Awesome list for deep learning on medical research
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
