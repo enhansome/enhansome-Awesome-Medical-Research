@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "codertimo",
             "repo": "BERT-pytorch",
-            "stars": 6527,
+            "stars": 6526,
             "topics": [
               "bert",
               "language-model",
@@ -208,7 +208,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -381,7 +381,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77636,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -402,7 +402,7 @@
             "open_issues": 124,
             "owner": "tkipf",
             "repo": "gcn",
-            "stars": 7417,
+            "stars": 7419,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -643,7 +643,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10935,
+            "stars": 10936,
             "topics": [
               "ai",
               "google",
@@ -800,7 +800,7 @@
             "open_issues": 6,
             "owner": "gokceneraslan",
             "repo": "awesome-deepbio",
-            "stars": 1994,
+            "stars": 1995,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:48.845Z"
@@ -821,7 +821,7 @@
             "open_issues": 2,
             "owner": "albarqouni",
             "repo": "Deep-Learning-for-Medical-Applications",
-            "stars": 1616,
+            "stars": 1615,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:01:32.350Z",
+    "last_updated": "2026-11-28T04:43:40.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for deep learning on medical research",
